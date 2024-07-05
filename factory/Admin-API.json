@@ -1,0 +1,9 @@
+{
+	"name": "Admin-API",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "be4d0cdc-fe37-46ee-9030-ae2760df6808",
+		"tenantId": "d4fb36ec-64c4-419d-a49b-66c14ebed3c1"
+	}
+}
